@@ -1,0 +1,32 @@
+body { 
+    font-family: sans-serif; 
+} 
+h1 { 
+    text-align: center; 
+ } 
+  header a { 
+     font-size: 30px; 
+     border-radius: 10px;    
+background-color: #FFB600; 
+} 
+header { 
+    background-color: #0776A0; 
+    } 
+ h3 { 
+    font-size: 30px; 
+    color: red;  
+    } 
+    ul { 
+  
+       list-style: url(https://learn.logikaschool.com/uploads/2021/01/Arrow%201_0_1611261359.svg); 
+       } 
+       h2 { 
+           border-bottom: 5px solid black; 
+           border-top: 5px solid black; 
+           text-align: center; 
+           padding: 5px; 
+           font-size: 40px; 
+           } 
+           footer { 
+               background-color:#024C68 ; 
+               color:  white;
